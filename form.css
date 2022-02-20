@@ -1,0 +1,44 @@
+
+body{
+    text-align: center;
+}
+#div1{
+    background-color:
+    rgb(52, 86, 139); 
+   
+    border: 3px solid rgb(226, 2, 2);
+    height: 100vh;
+    width: 100vw;
+}
+.input{
+   
+    margin-top: 6px;
+    padding: 8px;
+    border: 2px solid ;
+    border-radius: 10px;
+    width: 300px;
+    margin-left: 18px;
+    margin: 15px;
+}
+.input_dob{
+    width: 280px;
+    margin-top: 6px;
+    padding: 8px;
+    border: 2px solid ;
+    border-radius: 10px;
+   
+    margin-left: 18px;
+    margin: 15px;
+}
+}
+select{
+    margin-left: 0px;
+}
+#gender{
+    margin-left: 10px;
+}
+textarea{
+    width: 120x;
+    height: 65px;
+}
+
