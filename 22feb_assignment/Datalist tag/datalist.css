@@ -1,0 +1,22 @@
+body{
+    background-color: lightblue;
+    
+}
+.head1{
+    margin-left: 20vw;
+    margin-top: 12vh;
+    width: 60vw;
+    height: 70vh;
+    background-color: lightcoral;
+    text-align: center;
+}
+.h1{
+    padding: 10px;
+}
+input{
+    padding: 10px;
+    margin-left: 15px;
+   border-radius: 15px ; 
+    width: 150px;
+    height: 8px;
+}
