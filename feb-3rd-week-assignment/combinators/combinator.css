@@ -1,0 +1,24 @@
+.main 
+ {
+    text-align: center;
+}
+/* here we used adjacent sibling combinators */
+div + h3,h4{
+        color: red;
+        text-align: center;
+}
+/* here we used child combinator */
+div>h3{
+    color: navy;
+    text-align: center;
+}
+/* here we used general sibling combinators and groping selector also */
+.div2 ~ h4,p{
+    color: gold;
+    text-align: center;
+}
+/* here we used desendent combinators */
+.div3 h3{
+    color: orangered;
+    text-align: center;
+}
