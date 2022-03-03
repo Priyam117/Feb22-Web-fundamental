@@ -1,0 +1,112 @@
+body{
+  
+    margin: 0;
+    padding: 0;
+
+}
+
+
+nav{
+    width: 99vw;
+    height: 80px;
+    background-color: rgb(197, 180, 180);
+    
+    
+}
+.left{
+    float: left;
+    width: 30%;
+    height:80px;
+    position: absolute;
+    top: 19px;
+    left: 190px;
+}
+
+   
+.right{
+    float: right;
+    width: 70%;
+    height:80px;
+    position: absolute;
+    top: 26px;
+    left: 390px;
+}
+.main{
+    position: relative;
+    height: 310vh;
+    width: 99vw;
+    background-color: rgb(241, 240, 240);
+
+}
+P{
+    font-size: 21px;
+    font-weight: bold;
+}
+.div1{
+    position: absolute;
+    left: 145px;
+    top: 25px;
+    height: 900px;
+   
+  }
+  .div2{
+      position: absolute;
+      top: 939px;
+      left: 145px;
+      height: 50vh;
+      width: 100%;
+      
+  }
+  .table1{
+      margin-top: 40px;
+     border-collapse: collapse;
+      padding: 20px;
+      width: 80%;
+      height: 150px;
+      
+     
+  }
+  th,td{
+      border: 1px solid black;
+      height: 30px;
+     
+  }
+  td{
+      height: 60px;
+  }
+  .div3{
+      position: absolute;
+      top: 1250px;
+      left: 145px;
+      width: 100vw;
+      
+  }
+  .table2{
+      border-collapse: collapse;
+      border: 1px solid black;
+      height: 100px;
+     
+      width: 80%;
+      text-align: center;
+
+  }
+  .div4{
+      position: absolute;
+      top: 450px;
+      
+     
+      width: 100%;
+      height: 200px;
+  }
+  .table3{
+    border-collapse: collapse;
+    border: 1px solid black;
+    height: 100px;
+   
+    width: 80%;
+    text-align: center;
+  }
+
+  
+
+
