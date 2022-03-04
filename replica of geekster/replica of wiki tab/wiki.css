@@ -6,7 +6,10 @@ body{
 }
 
 
-nav{
+
+
+nav{ 
+    
     width: 99vw;
     height: 80px;
     background-color: rgb(197, 180, 180);
@@ -14,6 +17,7 @@ nav{
     
 }
 .left{
+    
     float: left;
     width: 30%;
     height:80px;
@@ -24,6 +28,7 @@ nav{
 
    
 .right{
+    
     float: right;
     width: 70%;
     height:80px;
